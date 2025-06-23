@@ -1,0 +1,1 @@
+# Train on phonemes and 22.05khz / 16khz
